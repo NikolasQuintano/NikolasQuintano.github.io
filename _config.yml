@@ -1,4 +1,3 @@
-theme: minima
 title: NikolasQuintano's life
 author: Nikolas Quintano
 email: nicolas.quintano@opendeusto.es
@@ -10,3 +9,5 @@ twitter_username: @nikolasquintano # NO incluyas el carácter @ character, ¡o l
 github_username:  NikolasQuintano # NO incluyas el carácter @ character, ¡o la compilación fallará!
 
 show_excerpts: true # cámbialo a false para eliminar los extractos de la página principal
+
+theme: minima
