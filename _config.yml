@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Qué miras
 
 # social links
-twitter_username: @nikolasquintano # NO incluyas el carácter @ character, ¡o la compilación fallará!
+twitter_username: nikolasquintano # NO incluyas el carácter @ character, ¡o la compilación fallará!
 github_username:  NikolasQuintano # NO incluyas el carácter @ character, ¡o la compilación fallará!
 
 show_excerpts: true # cámbialo a false para eliminar los extractos de la página principal
