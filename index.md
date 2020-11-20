@@ -1,3 +1,3 @@
-# Bienvenid@s a mi blog
+Bienvenid@s a mi blog
 
 ¿Hola, qué tal?
