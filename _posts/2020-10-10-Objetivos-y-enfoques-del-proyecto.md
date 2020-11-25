@@ -1,6 +1,6 @@
 ---
 title: Objetivos y enfoques del proyecto
-date: 2020-08-08
+date: 2020-10-10
 ---
 
 ## Objetivos y enfoques del proyecto
