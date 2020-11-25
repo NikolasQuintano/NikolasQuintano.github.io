@@ -2,7 +2,6 @@
 title: Objetivos y enfoques del proyecto
 date: 2020-10-10
 ---
-
 ## Objetivos y enfoques del proyecto
 
 1. Visión: que se quiere que el producto sea. Se define el alcance y el propósito del producto, pero sin entrar en cómo se va a lograr.
