@@ -4,7 +4,7 @@ date: 2020-10-06
 ---
 # Diseño de la experiencia de usuario y metodología ágiles de desarrollo
 
-Los autores pasan directamente a hablar sobre los factores que afectan a la ___experiencia de usuario__, y los clasifican en tres categorías:
+Los autores pasan directamente a hablar sobre los factores que afectan a la __experiencia de usuario__, y los clasifican en tres categorías:
 - El contexto del usuario
 - El estado del usuario
 - Las propiedades del sistema.
