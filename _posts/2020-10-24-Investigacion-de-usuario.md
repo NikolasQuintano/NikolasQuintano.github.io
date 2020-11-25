@@ -4,7 +4,7 @@ date: 2020-10-24
 ---
 # Investigación de Usuarios
 
-El texto comienza explicando que “personas” es un termino referido a perfiles de usuario. Cada “persona” representa un perfil.
+El texto comienza explicando que _personas_ es un termino referido a perfiles de usuario. Cada _persona_ representa un perfil.
 Proporciona información sobre el target y es útil para diseñar el proyecto.
 Su objetivo es priorizar el contenido que mejor encaja con la audiencia. El equipo de diseño es la audiencia primario, son los que lo utilizan.
 
