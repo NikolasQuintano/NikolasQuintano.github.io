@@ -2,8 +2,6 @@
 title: Wireframes y prototipos
 date: 2020-11-24
 ---
-# Wireframes y prototipos
-
 Son maneras de identificar le estructura y el contenido propuesto, así como de comportamiento funcional sitio y diagrames posibles. Resumiendo, las estructuras son vista de la web. Si se combinan mapas de sitio y diagramas de flujos, los wireframes son muy útiles para identificar posibles escenarios. También es una herramienta para comunicar el diseño.
 Antes, en cambio, se usaban para aportar al diseñador para sus trabajos. Son útiles para mostrar el diseño web a los clientes. Los wireframes van de proyecto a proyecto y la audiencia puede variar desde una sola persona hasta grupos de trabajo diferentes.
 

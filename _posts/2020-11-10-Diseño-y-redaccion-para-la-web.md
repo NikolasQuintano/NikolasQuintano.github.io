@@ -2,8 +2,6 @@
 title: Diseño y redacción para la web
 date: 2020-11-10
 ---
-# Diseño y redacción para la Web
-
 ## La longitud de los textos
 Un texto de dos páginas se lee sin ningún problema sobre el papel, pero si hay que leer ese mismo texto en una pantalla, la lectura se vuelve mucho más pesada. Diversas investigaciones han llegado a la conclusión de que es más fácil perder la concentración al leer textos en pantalla que al leerlos en formato papel. Parece ser que estamos acostumbrados a leer textos largos en papel, pero ante la pantalla nos resulta imposible mantener la atención durante mucho tiempo.
 

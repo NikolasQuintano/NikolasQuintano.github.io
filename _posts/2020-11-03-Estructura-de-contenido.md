@@ -2,8 +2,6 @@
 title: Estructura de contenido
 date: 2020-11-03
 ---
-# Estructura de contenido
-
 Se habla de las __auditorías__, que son técnicas para empezar a hacer el proyecto. Hay dos tipos: 
 - Cuantitativa: solo contienen datos.
 - Cualitativa: desarrollas los datos cuantitativos y van más allá.
