@@ -3,9 +3,9 @@ title: Diseño de la experiencia de usuario y metodologías ágiles de desarroll
 date: 2020-10-06
 ---
 Los autores pasan directamente a hablar sobre los factores que afectan a la __experiencia de usuario__, y los clasifican en tres categorías:
-- El contexto del usuario
-- El estado del usuario
-- Las propiedades del sistema.
+1. El contexto del usuario
+2. El estado del usuario
+3. Las propiedades del sistema.
 
 De esta razón, se puede sacar una idea por cada categoría:
 - Respecto al primer punto, comentan que la experiencia del usuario cambia cuando el contexto lo hace. Se enumeran varios ejemplos como estar trabajando solo o con más compañeros; trabajar en un aula o en un autobús y etc.

@@ -16,3 +16,7 @@ Su objetivo es priorizar el contenido que mejor encaja con la audiencia. El equi
 - Descripción
 - Hábitos
 - Aficiones
+
+Un ejemplo claro, es la siguiente imagen:
+
+![Personas](https://dinngolab.es/pildoras/design-thinking-personas.png)

@@ -15,4 +15,5 @@ En Internet, en cambio, los mensajes cortos resultan efectivos. Y esto es lo que
 - Recibir mensajes divulgativos sobre asuntos técnicos.
 - Llevar a cabo acciones concretas.
 
-El momento de trasladar un texto escrito a un formato virtual puede ser el correcto para detectar los vicios de las personas, y así eliminarlos posteriormente.
+Por último, el autor finaliza con una cita muy adecuada:
+>El momento de trasladar un texto escrito a un formato virtual puede ser el correcto para detectar los vicios de las personas, y así eliminarlos posteriormente.

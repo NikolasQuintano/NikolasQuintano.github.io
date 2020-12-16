@@ -13,3 +13,7 @@ El mapa del sitio facilita mucha información de principio, y conocer los elemen
 1. Mapa del sitio
 2. _Sketching_
 3. Detalles específicos
+
+Finalmente, se muestra un ejemplo para facilitar su comprensión:
+
+![Site Map](https://sites.google.com/site/httpnissansalinacruzcom/_/rsrc/1349305138831/mapa-de-sitio/MAPA%20DE%20SITIO.jpg)
